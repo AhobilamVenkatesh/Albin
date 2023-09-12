@@ -4,6 +4,7 @@ public class HelloWorld{
         System.out.println("Hello My Name is Venkatesh");
 	 int a=10;
 	 String name="poornima";
+	 System.out.println("venkatesh is good boy");
  }
 
 }
